@@ -1,0 +1,4 @@
+[devnet]
+cluster = "https://api.devnet.solana.com"
+wallet = "./path/to/wallet.json"
+commit_message = "Add Anchor configuration for devnet deployment"
