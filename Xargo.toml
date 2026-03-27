@@ -1,0 +1,8 @@
+[target.bpf]
+# Example BPF target configuration
+llvm-config = "llvm-config"
+rustc = "rustc"
+
+[target.bpf.dependencies]
+# Add your BPF dependencies here
+serde = "1.0"
